@@ -6,7 +6,7 @@
 
 ![Title screen](Docs/preview_title.png)
 
-🎬 **[Watch the gameplay video](https://github.com/joekalala880/river-run-congo/releases/tag/v1.0)** (download the .mp4 from the v1.0 release)
+🎬 **[Watch the gameplay video](Docs/River-Run-Congo-Gameplay.mp4)** (3 min 26 s, with sound)
 
 ## The game
 
