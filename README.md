@@ -6,6 +6,8 @@
 
 ![Title screen](Docs/preview_title.png)
 
+🎬 **[Watch the gameplay video](https://github.com/joekalala880/river-run-congo/releases/tag/v1.0)** (download the .mp4 from the v1.0 release)
+
 ## The game
 
 You are a young man coming back from the market in a canoe full of food and medicine for your village.
